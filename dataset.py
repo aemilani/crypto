@@ -9,8 +9,8 @@ from pycoingecko import CoinGeckoAPI
 
 
 # Params
-BINANCE_API_KEY = 'KihCFmQvn5XcFeaLI153hHwKNd2wHyKuCIBGsXNQXphDz8s771t4Dm6JHjXNstMa'
-BINANCE_API_SECRET = 'HEuflUxpxTg5jmG7h79pgSMfNGiWC1NuYMGZQKJuC4t5DYqPTCmdMOwcAcEhICBb'
+BINANCE_API_KEY = 'KihCFmQvn5XcFeaLI153hHwKNd2wHyKuCIBGsXNQXphDz8s771t4Dm6JHjXNstMa'  # deleted
+BINANCE_API_SECRET = 'HEuflUxpxTg5jmG7h79pgSMfNGiWC1NuYMGZQKJuC4t5DYqPTCmdMOwcAcEhICBb'  # deleted
 client = Client(api_key=BINANCE_API_KEY, api_secret=BINANCE_API_SECRET)
 
 cg = CoinGeckoAPI()
