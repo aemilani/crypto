@@ -1,0 +1,15 @@
+requests
+pandas
+numpy
+matplotlib
+python-binance
+plotly
+EMD-signal
+tensorflow
+pyinstaller
+statsmodels
+scikit-learn
+mplfinance
+notebook
+pycoingecko
+pandas-ta

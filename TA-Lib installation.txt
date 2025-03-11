@@ -1,0 +1,6 @@
+1- pip install --upgrade pip
+2- Download the correct file from: https://www.lfd.uci.edu/~gohlke/pythonlibs/#ta-lib to the project folder
+3- pip install TA_Lib-0.4.21-cp38-cp38-win_amd64.whl
+
+Documentation:
+https://mrjbq7.github.io/ta-lib/doc_index.html
